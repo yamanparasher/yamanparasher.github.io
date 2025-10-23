@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is Yaman Parasher and I am currently working as an Optical Applications Engineer at EXFO, where my work revolves around building & testing world-class network infrastructure by working with major ISPs, TSPs, & Hyperscalers in the EMEA region. My previous experiences encompass working on various in-lab optical system design software tools and optical sensor experimental setups along with expertise in modeling, design, & simulation of advanced photonic integrated circuits (PICs).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+To get to know more about me please refer to the About section of this website. The Experience section serves as an info. spot for all the internships projects, I’ve worked on over the years across various labs & institutes. The Coursework section, lists detailed description of all the courses I have covered so far or are currently attending, as a part of my current academic degree. Most of my notable accomplishments to date are listed in the Achievements section. And many of the projects that I’m working on (or not) are hosted on my Github repo. You can find my research publications to date in the Publications section.
+
+To have a quick review of my whole portfolio, please see my CV.
+
+Please excuse any dead links, missing pictures, and 404 errors; this website is currently under construction!
+
+You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
